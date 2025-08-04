@@ -1,0 +1,45 @@
+{
+  "title": "Video Editor Portfolio",
+  "subtitle": "전문 영상 편집자의 20가지 핵심 스킬",
+  "introduction": {
+    "name": "김편집",
+    "role": "비디오 에디터 | 모션 그래픽 디자이너",
+    "experience": "7년",
+    "specialties": ["광고 영상", "유튜브 콘텐츠", "모션 그래픽"]
+  },
+  "highlights": [
+    {
+      "icon": "🎬",
+      "label": "프로젝트",
+      "value": "150+",
+      "description": "완성된 영상 프로젝트"
+    },
+    {
+      "icon": "🏆",
+      "label": "수상 경력",
+      "value": "12",
+      "description": "국내외 영상 공모전"
+    },
+    {
+      "icon": "👥",
+      "label": "클라이언트",
+      "value": "50+",
+      "description": "협업한 브랜드 및 기업"
+    },
+    {
+      "icon": "⚡",
+      "label": "전문 도구",
+      "value": "10+",
+      "description": "숙련된 편집 소프트웨어"
+    }
+  ],
+  "skills": {
+    "primary": ["Adobe Premiere Pro", "After Effects", "DaVinci Resolve"],
+    "secondary": ["Final Cut Pro", "Cinema 4D", "Photoshop", "Illustrator"]
+  },
+  "contact": {
+    "email": "editor@example.com",
+    "phone": "010-1234-5678",
+    "portfolio": "www.kimeditor.com"
+  }
+}

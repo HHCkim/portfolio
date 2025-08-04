@@ -1,0 +1,184 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "name": "스토리텔링 구성",
+      "filename": "1.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 2,
+      "name": "리드미컬 편집",
+      "filename": "2.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 3,
+      "name": "멀티캠 편집",
+      "filename": "3.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 4,
+      "name": "인서트/컷어웨이 활용",
+      "filename": "4.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 5,
+      "name": "기초 색 보정",
+      "filename": "5.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 6,
+      "name": "색 그레이딩",
+      "filename": "6.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 7,
+      "name": "LUT 활용",
+      "filename": "7.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 8,
+      "name": "스키톤 보정",
+      "filename": "8.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 9,
+      "name": "배경음악 믹싱",
+      "filename": "9.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 10,
+      "name": "효과음 디자인",
+      "filename": "10.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 11,
+      "name": "오디오 클리닝",
+      "filename": "11.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 12,
+      "name": "대사/나레이션 믹싱",
+      "filename": "12.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 13,
+      "name": "자막/키네틱 타이포그래피",
+      "filename": "13.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 14,
+      "name": "2D 모션 그래픽",
+      "filename": "14.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 15,
+      "name": "크로마키/합성",
+      "filename": "15.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 16,
+      "name": "트래킹/개체제거",
+      "filename": "16.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 17,
+      "name": "유튜브 콘텐츠",
+      "filename": "17.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 18,
+      "name": "숏폼",
+      "filename": "18.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 19,
+      "name": "광고/홍보 영상",
+      "filename": "19.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    },
+    {
+      "id": 20,
+      "name": "다큐/인터뷰",
+      "filename": "20.mp4",
+      "duration": 30,
+      "size": "50MB",
+      "format": "mp4",
+      "codec": "h264"
+    }
+  ]
+}
