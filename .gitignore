@@ -32,3 +32,8 @@ yarn-error.log*
 .cache
 .upm
 .breakpoints
+
+# Environment variables
+.env
+.env.*
+!/.env.example
